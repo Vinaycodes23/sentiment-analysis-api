@@ -254,7 +254,7 @@ For testing the API endpoints, you can use the following Postman collection:
 ## <img align="center" width="60px" src="https://en.opensuse.org/images/9/91/Gsocsun.png"> GSoC Docs <a id="gsoc"></a>
 This repository is part of the [Google Summer of Code (GSoC) 2024](https://summerofcode.withgoogle.com/) program.
 
-- **Contributor:** [Basma Elhoseny](https://github.com/basmaelhoseny01)
+- **Contributor:** [Basma Elhoseny](https://github.com/basmaelhoseny01) - [Vinay jadhav](https://github.com/Vinaycodes23)
 - **Mentors:** [Karine](https://github.com/KarinePistili) - [Marc](https://github.com/marcgc21) - [Vinícius](https://github.com/hvini) - [Murilo](https://github.com/murilonND)
 
 ### Useful Links:
